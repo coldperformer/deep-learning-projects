@@ -1,11 +1,31 @@
 # Introduction
 
-- Predicting the price of used cars in both an important and interesting problem.
+- Optimization is the **selection** of the **best element** from some set of **available alternatives**.
 
-- According to the <a href = "https://www.bts.gov/archive/publications/national_transportation_statistics/index">**National Transport Authority**</a>, the number of **cars registered** between **2003 and 2013** has spectacular **increase of 234%**. 
+- It is the most **essential ingredient** in the recipe of machine learning algorithms.
 
-- From **68, 524 cars** **registered** in 2003, this number has **now reached 160, 701**.
+- It initiates with defining some sort of **loss/cost function** and ends with minimizing it.
 
-- With difficult economic conditions, it is likely that **sales** of **second-hand** imported (reconditioned) cars and **used cars** will **increase**.
+- The choice of an optimized algorithm can **make** a **difference** between **getting good accuracy** in hours or days.
 
-- It is reported in that the sales of new cars has registered a <a href = "https://motors.mega.mu/news/auto-market-8-decrease-sales-new-cars-20131217.html">**decrease of 8%**</a> in 2013.
+# Problem Statement
+
+- Loans are the **core business** of banks and the main profit comes directly from the loan’s interest. 
+
+- The loan companies **grant** a **loan** after an **intensive process** of verification and validation. 
+
+- However, they still **don’t have assurance** if the **applicant** can **repay** the loan with no difficulties.
+
+<br> 
+
+<p align="center"><img src="https://www.indusind.com/iblogs/wp-content/uploads/Things-to-Keep-in-Mind-Before-Taking-a-Personal-Loan.jpg"></</p>
+
+<br> 
+
+**<h4>Scenario (Hypothetical):</h4>**
+
+- **Micro Loans**, a **USA**-based company that provides the **loan** to its customers.
+
+- They are looking for an **automated solution** that will **predict** the **loan status** of the customer.
+
+- To tackle this situation of crisis, they have **consulted** a team of **data scientists**. **Consider it's you...**
